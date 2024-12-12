@@ -7,7 +7,7 @@ This is my home page! My name is Matthew Aaron Gabriel and I am a student at [Ca
 
 ## Computer Science Projects
 
-My GitHub page is [http://github.com/Matthew-Gabriel](http://github.com/Matthew-Gabriel).
+My GitHub page is [http://github.com/Matthew-Gabriel](http://github.com/Matthew-Gabriel) .
 
 ### Favorite Labs of CPSC 120L
 
